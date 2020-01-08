@@ -1,0 +1,2 @@
+# RSBot
+Rank S Bot
